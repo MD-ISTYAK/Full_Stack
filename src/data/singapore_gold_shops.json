@@ -1,0 +1,4952 @@
+[
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "494 Ang Mo Kio Drive 6, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 0.63,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "14 Ang Mo Kio South Avenue, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.92,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "457 Ang Mo Kio Central Road, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.45,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "160 Ang Mo Kio Drive 6, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 3.28,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 Ang Mo Kio Main Road, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 4.86,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "345 Ang Mo Kio South Avenue, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.7,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "52 Ang Mo Kio South Avenue, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.19,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "458 Ang Mo Kio South Avenue, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 0.72,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "41 Ang Mo Kio Main Road, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.33,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "402 Ang Mo Kio Central Road, Singapore",
+    "district": "Ang Mo Kio",
+    "distance_km": 1.0,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "94 Bedok South Avenue, Singapore",
+    "district": "Bedok",
+    "distance_km": 2.91,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "383 Bedok South Avenue, Singapore",
+    "district": "Bedok",
+    "distance_km": 4.9,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "140 Bedok Street 11, Singapore",
+    "district": "Bedok",
+    "distance_km": 4.64,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "355 Bedok Street 11, Singapore",
+    "district": "Bedok",
+    "distance_km": 2.32,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "305 Bedok North Street, Singapore",
+    "district": "Bedok",
+    "distance_km": 1.08,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "364 Bedok Central Road, Singapore",
+    "district": "Bedok",
+    "distance_km": 1.4,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "500 Bedok North Street, Singapore",
+    "district": "Bedok",
+    "distance_km": 0.24,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "302 Bedok South Avenue, Singapore",
+    "district": "Bedok",
+    "distance_km": 2.87,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "442 Bedok West Avenue, Singapore",
+    "district": "Bedok",
+    "distance_km": 0.91,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "203 Bedok Street 21, Singapore",
+    "district": "Bedok",
+    "distance_km": 3.99,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "401 Bishan East Road, Singapore",
+    "district": "Bishan",
+    "distance_km": 2.16,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "181 Bishan Drive 6, Singapore",
+    "district": "Bishan",
+    "distance_km": 1.88,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "122 Bishan Avenue 5, Singapore",
+    "district": "Bishan",
+    "distance_km": 1.87,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "207 Bishan North Street, Singapore",
+    "district": "Bishan",
+    "distance_km": 1.27,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "459 Bishan East Road, Singapore",
+    "district": "Bishan",
+    "distance_km": 3.85,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "35 Bishan East Road, Singapore",
+    "district": "Bishan",
+    "distance_km": 2.6,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "379 Bishan Drive 6, Singapore",
+    "district": "Bishan",
+    "distance_km": 0.81,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "453 Bishan Street 21, Singapore",
+    "district": "Bishan",
+    "distance_km": 3.99,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "396 Bishan Main Road, Singapore",
+    "district": "Bishan",
+    "distance_km": 0.63,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "258 Bishan West Avenue, Singapore",
+    "district": "Bishan",
+    "distance_km": 4.44,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Luxe Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "240 Boon Lay South Avenue, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 4.01,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "474 Boon Lay South Avenue, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 3.66,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "349 Boon Lay South Avenue, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 1.09,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "114 Boon Lay Drive 6, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 1.57,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "158 Boon Lay Avenue 3, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 1.18,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "14 Boon Lay South Avenue, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 4.81,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "128 Boon Lay Avenue 5, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 0.37,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "297 Boon Lay Drive 6, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 1.97,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "333 Boon Lay Avenue 5, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 0.21,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "242 Boon Lay North Street, Singapore",
+    "district": "Boon Lay",
+    "distance_km": 1.36,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "358 Bukit Batok Avenue 3, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 4.9,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "79 Bukit Batok West Avenue, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 0.92,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "470 Bukit Batok Main Road, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 2.29,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "65 Bukit Batok Avenue 3, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 1.57,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "427 Bukit Batok Main Road, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 4.36,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "175 Bukit Batok East Road, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 3.59,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "385 Bukit Batok Main Road, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 3.49,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "51 Bukit Batok South Avenue, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 1.14,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "275 Bukit Batok North Street, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 1.65,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "431 Bukit Batok Avenue 5, Singapore",
+    "district": "Bukit Batok",
+    "distance_km": 3.45,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "131 Bukit Merah Avenue 3, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 1.78,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "455 Bukit Merah Avenue 5, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 3.78,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "323 Bukit Merah Central Road, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 1.3,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "49 Bukit Merah East Road, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 0.55,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "292 Bukit Merah Street 21, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 0.13,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "280 Bukit Merah South Avenue, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 2.78,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "342 Bukit Merah East Road, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 3.45,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "84 Bukit Merah North Street, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 4.61,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "187 Bukit Merah Avenue 5, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 2.84,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "80 Bukit Merah Main Road, Singapore",
+    "district": "Bukit Merah",
+    "distance_km": 4.64,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 Bukit Panjang Central Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 2.38,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "357 Bukit Panjang East Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 1.55,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "204 Bukit Panjang Street 11, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 4.82,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "96 Bukit Panjang Main Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 0.46,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "96 Bukit Panjang Main Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 4.46,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "235 Bukit Panjang East Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 4.19,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "173 Bukit Panjang Drive 6, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 3.52,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "377 Bukit Panjang Street 21, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 1.99,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "372 Bukit Panjang North Street, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 1.91,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "266 Bukit Panjang East Road, Singapore",
+    "district": "Bukit Panjang",
+    "distance_km": 1.61,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "87 Bukit Timah Central Road, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.57,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "91 Bukit Timah North Street, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.89,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "107 Bukit Timah Main Road, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.99,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "253 Bukit Timah Main Road, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.79,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "262 Bukit Timah Central Road, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.26,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "321 Bukit Timah Avenue 3, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 0.61,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "407 Bukit Timah Central Road, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 1.38,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "180 Bukit Timah Street 11, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 4.66,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "319 Bukit Timah Avenue 5, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 2.69,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "417 Bukit Timah North Street, Singapore",
+    "district": "Bukit Timah",
+    "distance_km": 2.22,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "205 Central Area Central Road, Singapore",
+    "district": "Central Area",
+    "distance_km": 3.57,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "238 Central Area Main Road, Singapore",
+    "district": "Central Area",
+    "distance_km": 0.1,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "174 Central Area Avenue 5, Singapore",
+    "district": "Central Area",
+    "distance_km": 2.55,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "163 Central Area West Avenue, Singapore",
+    "district": "Central Area",
+    "distance_km": 3.08,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "148 Central Area West Avenue, Singapore",
+    "district": "Central Area",
+    "distance_km": 0.23,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "99 Central Area Avenue 5, Singapore",
+    "district": "Central Area",
+    "distance_km": 4.27,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "283 Central Area East Road, Singapore",
+    "district": "Central Area",
+    "distance_km": 1.5,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "243 Central Area Street 11, Singapore",
+    "district": "Central Area",
+    "distance_km": 1.63,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "238 Central Area North Street, Singapore",
+    "district": "Central Area",
+    "distance_km": 1.06,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "393 Central Area Street 21, Singapore",
+    "district": "Central Area",
+    "distance_km": 2.66,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "167 Choa Chu Kang Avenue 3, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 3.11,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "358 Choa Chu Kang West Avenue, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 4.32,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "217 Choa Chu Kang Central Road, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 1.19,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "107 Choa Chu Kang Main Road, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 1.41,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "189 Choa Chu Kang East Road, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 2.64,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "372 Choa Chu Kang Avenue 3, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 4.29,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "163 Choa Chu Kang Street 21, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 4.13,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "60 Choa Chu Kang Street 11, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 1.03,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "8 Choa Chu Kang Central Road, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 3.2,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "321 Choa Chu Kang West Avenue, Singapore",
+    "district": "Choa Chu Kang",
+    "distance_km": 4.14,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "350 Clementi Avenue 5, Singapore",
+    "district": "Clementi",
+    "distance_km": 4.51,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "406 Clementi West Avenue, Singapore",
+    "district": "Clementi",
+    "distance_km": 1.39,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "290 Clementi Avenue 3, Singapore",
+    "district": "Clementi",
+    "distance_km": 2.48,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "445 Clementi Avenue 3, Singapore",
+    "district": "Clementi",
+    "distance_km": 3.06,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "397 Clementi Avenue 3, Singapore",
+    "district": "Clementi",
+    "distance_km": 3.53,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "226 Clementi North Street, Singapore",
+    "district": "Clementi",
+    "distance_km": 1.1,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "71 Clementi Central Road, Singapore",
+    "district": "Clementi",
+    "distance_km": 2.64,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "426 Clementi West Avenue, Singapore",
+    "district": "Clementi",
+    "distance_km": 2.44,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "224 Clementi South Avenue, Singapore",
+    "district": "Clementi",
+    "distance_km": 3.05,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "291 Clementi Drive 6, Singapore",
+    "district": "Clementi",
+    "distance_km": 2.2,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "82 Geylang West Avenue, Singapore",
+    "district": "Geylang",
+    "distance_km": 1.35,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "61 Geylang Avenue 3, Singapore",
+    "district": "Geylang",
+    "distance_km": 0.29,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "222 Geylang Drive 6, Singapore",
+    "district": "Geylang",
+    "distance_km": 3.27,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "73 Geylang Avenue 5, Singapore",
+    "district": "Geylang",
+    "distance_km": 3.21,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "164 Geylang Street 11, Singapore",
+    "district": "Geylang",
+    "distance_km": 0.16,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "228 Geylang West Avenue, Singapore",
+    "district": "Geylang",
+    "distance_km": 2.42,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "233 Geylang South Avenue, Singapore",
+    "district": "Geylang",
+    "distance_km": 1.28,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "493 Geylang Central Road, Singapore",
+    "district": "Geylang",
+    "distance_km": 0.54,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "47 Geylang Street 21, Singapore",
+    "district": "Geylang",
+    "distance_km": 0.92,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "356 Geylang North Street, Singapore",
+    "district": "Geylang",
+    "distance_km": 1.88,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "33 Hougang Street 21, Singapore",
+    "district": "Hougang",
+    "distance_km": 1.17,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "161 Hougang Street 21, Singapore",
+    "district": "Hougang",
+    "distance_km": 1.3,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Metro Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "353 Hougang North Street, Singapore",
+    "district": "Hougang",
+    "distance_km": 2.12,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "298 Hougang Avenue 3, Singapore",
+    "district": "Hougang",
+    "distance_km": 0.88,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "451 Hougang South Avenue, Singapore",
+    "district": "Hougang",
+    "distance_km": 4.19,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "342 Hougang Drive 6, Singapore",
+    "district": "Hougang",
+    "distance_km": 1.4,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "469 Hougang Street 21, Singapore",
+    "district": "Hougang",
+    "distance_km": 1.14,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "227 Hougang South Avenue, Singapore",
+    "district": "Hougang",
+    "distance_km": 1.24,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "297 Hougang South Avenue, Singapore",
+    "district": "Hougang",
+    "distance_km": 2.9,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "23 Hougang Street 11, Singapore",
+    "district": "Hougang",
+    "distance_km": 0.86,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "24 Jurong East Avenue 5, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.23,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "277 Jurong East North Street, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.35,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "133 Jurong East Main Road, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.82,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "367 Jurong East Main Road, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.9,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "130 Jurong East Central Road, Singapore",
+    "district": "Jurong East",
+    "distance_km": 1.94,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "202 Jurong East Avenue 3, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.71,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "47 Jurong East Street 11, Singapore",
+    "district": "Jurong East",
+    "distance_km": 4.28,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "165 Jurong East Avenue 5, Singapore",
+    "district": "Jurong East",
+    "distance_km": 1.02,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "137 Jurong East Avenue 5, Singapore",
+    "district": "Jurong East",
+    "distance_km": 2.11,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "280 Jurong East Drive 6, Singapore",
+    "district": "Jurong East",
+    "distance_km": 0.73,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "209 Jurong West Avenue 3, Singapore",
+    "district": "Jurong West",
+    "distance_km": 3.38,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "12 Jurong West Street 11, Singapore",
+    "district": "Jurong West",
+    "distance_km": 2.29,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "454 Jurong West East Road, Singapore",
+    "district": "Jurong West",
+    "distance_km": 1.54,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "18 Jurong West Street 21, Singapore",
+    "district": "Jurong West",
+    "distance_km": 3.69,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "485 Jurong West North Street, Singapore",
+    "district": "Jurong West",
+    "distance_km": 4.78,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "68 Jurong West Avenue 3, Singapore",
+    "district": "Jurong West",
+    "distance_km": 2.59,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "141 Jurong West North Street, Singapore",
+    "district": "Jurong West",
+    "distance_km": 0.16,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "214 Jurong West Main Road, Singapore",
+    "district": "Jurong West",
+    "distance_km": 1.92,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Metro Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "455 Jurong West Drive 6, Singapore",
+    "district": "Jurong West",
+    "distance_km": 0.71,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "211 Jurong West Avenue 3, Singapore",
+    "district": "Jurong West",
+    "distance_km": 0.87,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "305 Kallang Central Road, Singapore",
+    "district": "Kallang",
+    "distance_km": 1.42,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "33 Kallang East Road, Singapore",
+    "district": "Kallang",
+    "distance_km": 3.55,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "445 Kallang East Road, Singapore",
+    "district": "Kallang",
+    "distance_km": 3.95,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "368 Kallang Avenue 3, Singapore",
+    "district": "Kallang",
+    "distance_km": 0.32,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "210 Kallang Main Road, Singapore",
+    "district": "Kallang",
+    "distance_km": 0.78,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "482 Kallang West Avenue, Singapore",
+    "district": "Kallang",
+    "distance_km": 2.85,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "401 Kallang Street 21, Singapore",
+    "district": "Kallang",
+    "distance_km": 1.75,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "365 Kallang North Street, Singapore",
+    "district": "Kallang",
+    "distance_km": 4.55,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "51 Kallang Drive 6, Singapore",
+    "district": "Kallang",
+    "distance_km": 1.9,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "176 Kallang South Avenue, Singapore",
+    "district": "Kallang",
+    "distance_km": 3.38,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "413 Marine Parade Avenue 5, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 3.12,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "481 Marine Parade Drive 6, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 3.1,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "482 Marine Parade Main Road, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 2.8,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "168 Marine Parade Avenue 5, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 4.37,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "350 Marine Parade Central Road, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 2.13,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "157 Marine Parade East Road, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 0.43,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "254 Marine Parade East Road, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 3.98,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "61 Marine Parade Avenue 5, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 4.86,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "199 Marine Parade Main Road, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 4.81,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 Marine Parade Street 11, Singapore",
+    "district": "Marine Parade",
+    "distance_km": 3.14,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "107 Novena Central Road, Singapore",
+    "district": "Novena",
+    "distance_km": 0.71,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "168 Novena West Avenue, Singapore",
+    "district": "Novena",
+    "distance_km": 1.09,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "11 Novena East Road, Singapore",
+    "district": "Novena",
+    "distance_km": 3.42,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "160 Novena Street 11, Singapore",
+    "district": "Novena",
+    "distance_km": 1.29,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "16 Novena South Avenue, Singapore",
+    "district": "Novena",
+    "distance_km": 4.7,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "282 Novena Street 11, Singapore",
+    "district": "Novena",
+    "distance_km": 2.24,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "391 Novena Drive 6, Singapore",
+    "district": "Novena",
+    "distance_km": 2.53,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "299 Novena Street 11, Singapore",
+    "district": "Novena",
+    "distance_km": 4.99,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "123 Novena South Avenue, Singapore",
+    "district": "Novena",
+    "distance_km": 2.7,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "160 Novena East Road, Singapore",
+    "district": "Novena",
+    "distance_km": 2.76,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "208 Pasir Ris Avenue 3, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 2.39,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "333 Pasir Ris Street 11, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 2.56,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "148 Pasir Ris Central Road, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 3.74,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "226 Pasir Ris North Street, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 4.58,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "370 Pasir Ris Avenue 5, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 4.77,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "453 Pasir Ris Street 21, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 0.57,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "400 Pasir Ris East Road, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 4.81,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "127 Pasir Ris South Avenue, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 0.45,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "165 Pasir Ris Drive 6, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 4.78,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "7 Pasir Ris Street 11, Singapore",
+    "district": "Pasir Ris",
+    "distance_km": 4.65,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "161 Punggol West Avenue, Singapore",
+    "district": "Punggol",
+    "distance_km": 4.21,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "490 Punggol Drive 6, Singapore",
+    "district": "Punggol",
+    "distance_km": 4.41,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "271 Punggol Drive 6, Singapore",
+    "district": "Punggol",
+    "distance_km": 2.99,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "309 Punggol North Street, Singapore",
+    "district": "Punggol",
+    "distance_km": 2.34,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "344 Punggol East Road, Singapore",
+    "district": "Punggol",
+    "distance_km": 3.27,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "22 Punggol East Road, Singapore",
+    "district": "Punggol",
+    "distance_km": 3.28,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "48 Punggol Main Road, Singapore",
+    "district": "Punggol",
+    "distance_km": 2.4,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "133 Punggol Drive 6, Singapore",
+    "district": "Punggol",
+    "distance_km": 2.83,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "386 Punggol Main Road, Singapore",
+    "district": "Punggol",
+    "distance_km": 3.22,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "425 Punggol Central Road, Singapore",
+    "district": "Punggol",
+    "distance_km": 2.68,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "71 Queenstown Drive 6, Singapore",
+    "district": "Queenstown",
+    "distance_km": 1.34,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "216 Queenstown Main Road, Singapore",
+    "district": "Queenstown",
+    "distance_km": 0.12,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 Queenstown Main Road, Singapore",
+    "district": "Queenstown",
+    "distance_km": 3.75,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "13 Queenstown Drive 6, Singapore",
+    "district": "Queenstown",
+    "distance_km": 4.67,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "348 Queenstown North Street, Singapore",
+    "district": "Queenstown",
+    "distance_km": 3.16,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "487 Queenstown East Road, Singapore",
+    "district": "Queenstown",
+    "distance_km": 4.49,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "426 Queenstown West Avenue, Singapore",
+    "district": "Queenstown",
+    "distance_km": 0.65,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "75 Queenstown Central Road, Singapore",
+    "district": "Queenstown",
+    "distance_km": 0.93,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "155 Queenstown South Avenue, Singapore",
+    "district": "Queenstown",
+    "distance_km": 1.22,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "460 Queenstown Central Road, Singapore",
+    "district": "Queenstown",
+    "distance_km": 3.42,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "376 River Valley Street 21, Singapore",
+    "district": "River Valley",
+    "distance_km": 2.19,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "265 River Valley Main Road, Singapore",
+    "district": "River Valley",
+    "distance_km": 0.91,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "160 River Valley Avenue 3, Singapore",
+    "district": "River Valley",
+    "distance_km": 0.55,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "384 River Valley West Avenue, Singapore",
+    "district": "River Valley",
+    "distance_km": 1.46,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "42 River Valley East Road, Singapore",
+    "district": "River Valley",
+    "distance_km": 1.41,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "432 River Valley West Avenue, Singapore",
+    "district": "River Valley",
+    "distance_km": 4.46,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "210 River Valley Main Road, Singapore",
+    "district": "River Valley",
+    "distance_km": 4.52,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "129 River Valley West Avenue, Singapore",
+    "district": "River Valley",
+    "distance_km": 1.04,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "384 River Valley Street 21, Singapore",
+    "district": "River Valley",
+    "distance_km": 2.11,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "207 River Valley Street 21, Singapore",
+    "district": "River Valley",
+    "distance_km": 1.61,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "80 Rochor Street 11, Singapore",
+    "district": "Rochor",
+    "distance_km": 2.38,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "294 Rochor North Street, Singapore",
+    "district": "Rochor",
+    "distance_km": 4.74,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "385 Rochor Drive 6, Singapore",
+    "district": "Rochor",
+    "distance_km": 4.62,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "76 Rochor South Avenue, Singapore",
+    "district": "Rochor",
+    "distance_km": 1.91,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "102 Rochor Street 11, Singapore",
+    "district": "Rochor",
+    "distance_km": 3.18,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "350 Rochor Drive 6, Singapore",
+    "district": "Rochor",
+    "distance_km": 0.72,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "326 Rochor Central Road, Singapore",
+    "district": "Rochor",
+    "distance_km": 0.71,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "368 Rochor Main Road, Singapore",
+    "district": "Rochor",
+    "distance_km": 0.46,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "261 Rochor Main Road, Singapore",
+    "district": "Rochor",
+    "distance_km": 0.7,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "69 Rochor North Street, Singapore",
+    "district": "Rochor",
+    "distance_km": 2.56,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "220 Sembawang West Avenue, Singapore",
+    "district": "Sembawang",
+    "distance_km": 4.78,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "202 Sembawang Avenue 3, Singapore",
+    "district": "Sembawang",
+    "distance_km": 3.33,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "105 Sembawang North Street, Singapore",
+    "district": "Sembawang",
+    "distance_km": 1.3,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "141 Sembawang Avenue 5, Singapore",
+    "district": "Sembawang",
+    "distance_km": 0.34,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "446 Sembawang Main Road, Singapore",
+    "district": "Sembawang",
+    "distance_km": 4.33,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "198 Sembawang Avenue 3, Singapore",
+    "district": "Sembawang",
+    "distance_km": 2.82,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "78 Sembawang Central Road, Singapore",
+    "district": "Sembawang",
+    "distance_km": 2.63,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "176 Sembawang West Avenue, Singapore",
+    "district": "Sembawang",
+    "distance_km": 0.6,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "191 Sembawang East Road, Singapore",
+    "district": "Sembawang",
+    "distance_km": 3.79,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "322 Sembawang Main Road, Singapore",
+    "district": "Sembawang",
+    "distance_km": 1.14,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "480 Sengkang Central Road, Singapore",
+    "district": "Sengkang",
+    "distance_km": 2.4,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "190 Sengkang Drive 6, Singapore",
+    "district": "Sengkang",
+    "distance_km": 4.47,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "49 Sengkang Central Road, Singapore",
+    "district": "Sengkang",
+    "distance_km": 0.87,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "220 Sengkang Avenue 3, Singapore",
+    "district": "Sengkang",
+    "distance_km": 4.95,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "55 Sengkang Street 11, Singapore",
+    "district": "Sengkang",
+    "distance_km": 2.62,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "281 Sengkang Street 21, Singapore",
+    "district": "Sengkang",
+    "distance_km": 0.7,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "17 Sengkang Street 21, Singapore",
+    "district": "Sengkang",
+    "distance_km": 2.92,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "7 Sengkang Main Road, Singapore",
+    "district": "Sengkang",
+    "distance_km": 2.97,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "216 Sengkang Drive 6, Singapore",
+    "district": "Sengkang",
+    "distance_km": 2.02,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "109 Sengkang North Street, Singapore",
+    "district": "Sengkang",
+    "distance_km": 3.43,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "449 Serangoon Avenue 3, Singapore",
+    "district": "Serangoon",
+    "distance_km": 0.86,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "254 Serangoon South Avenue, Singapore",
+    "district": "Serangoon",
+    "distance_km": 0.44,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "403 Serangoon South Avenue, Singapore",
+    "district": "Serangoon",
+    "distance_km": 3.77,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "88 Serangoon Street 11, Singapore",
+    "district": "Serangoon",
+    "distance_km": 0.76,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "221 Serangoon Main Road, Singapore",
+    "district": "Serangoon",
+    "distance_km": 3.6,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "386 Serangoon West Avenue, Singapore",
+    "district": "Serangoon",
+    "distance_km": 4.11,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "125 Serangoon Avenue 5, Singapore",
+    "district": "Serangoon",
+    "distance_km": 3.25,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "274 Serangoon Street 21, Singapore",
+    "district": "Serangoon",
+    "distance_km": 4.73,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "18 Serangoon Avenue 5, Singapore",
+    "district": "Serangoon",
+    "distance_km": 2.39,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "35 Serangoon Avenue 3, Singapore",
+    "district": "Serangoon",
+    "distance_km": 2.76,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "144 Tampines West Avenue, Singapore",
+    "district": "Tampines",
+    "distance_km": 4.13,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "111 Tampines Main Road, Singapore",
+    "district": "Tampines",
+    "distance_km": 2.58,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "409 Tampines Street 21, Singapore",
+    "district": "Tampines",
+    "distance_km": 0.26,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "476 Tampines East Road, Singapore",
+    "district": "Tampines",
+    "distance_km": 3.63,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "331 Tampines Drive 6, Singapore",
+    "district": "Tampines",
+    "distance_km": 0.41,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "151 Tampines Drive 6, Singapore",
+    "district": "Tampines",
+    "distance_km": 3.59,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "268 Tampines Street 21, Singapore",
+    "district": "Tampines",
+    "distance_km": 0.58,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "58 Tampines West Avenue, Singapore",
+    "district": "Tampines",
+    "distance_km": 3.87,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "35 Tampines South Avenue, Singapore",
+    "district": "Tampines",
+    "distance_km": 1.82,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "115 Tampines North Street, Singapore",
+    "district": "Tampines",
+    "distance_km": 2.03,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "63 Tanglin Central Road, Singapore",
+    "district": "Tanglin",
+    "distance_km": 1.15,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "133 Tanglin Central Road, Singapore",
+    "district": "Tanglin",
+    "distance_km": 1.18,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "243 Tanglin Avenue 3, Singapore",
+    "district": "Tanglin",
+    "distance_km": 2.15,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "179 Tanglin North Street, Singapore",
+    "district": "Tanglin",
+    "distance_km": 3.2,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "263 Tanglin Drive 6, Singapore",
+    "district": "Tanglin",
+    "distance_km": 3.13,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "184 Tanglin West Avenue, Singapore",
+    "district": "Tanglin",
+    "distance_km": 2.65,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "97 Tanglin North Street, Singapore",
+    "district": "Tanglin",
+    "distance_km": 2.04,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "290 Tanglin East Road, Singapore",
+    "district": "Tanglin",
+    "distance_km": 0.76,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "74 Tanglin Street 11, Singapore",
+    "district": "Tanglin",
+    "distance_km": 1.51,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "178 Tanglin Main Road, Singapore",
+    "district": "Tanglin",
+    "distance_km": 4.47,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "406 Toa Payoh West Avenue, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 1.9,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "156 Toa Payoh East Road, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 2.66,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "217 Toa Payoh North Street, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 4.2,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "406 Toa Payoh South Avenue, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 2.65,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "297 Toa Payoh Central Road, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 0.44,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "433 Toa Payoh South Avenue, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 3.51,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "429 Toa Payoh South Avenue, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 4.17,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "223 Toa Payoh Street 21, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 1.09,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "155 Toa Payoh Central Road, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 2.78,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "46 Toa Payoh Avenue 5, Singapore",
+    "district": "Toa Payoh",
+    "distance_km": 4.42,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "370 Woodlands South Avenue, Singapore",
+    "district": "Woodlands",
+    "distance_km": 1.25,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "443 Woodlands Drive 6, Singapore",
+    "district": "Woodlands",
+    "distance_km": 1.68,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "348 Woodlands Avenue 5, Singapore",
+    "district": "Woodlands",
+    "distance_km": 2.28,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "268 Woodlands Avenue 5, Singapore",
+    "district": "Woodlands",
+    "distance_km": 4.39,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "310 Woodlands Avenue 5, Singapore",
+    "district": "Woodlands",
+    "distance_km": 0.92,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "442 Woodlands Avenue 3, Singapore",
+    "district": "Woodlands",
+    "distance_km": 4.52,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "59 Woodlands Street 11, Singapore",
+    "district": "Woodlands",
+    "distance_km": 3.54,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "444 Woodlands South Avenue, Singapore",
+    "district": "Woodlands",
+    "distance_km": 4.46,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "155 Woodlands Avenue 5, Singapore",
+    "district": "Woodlands",
+    "distance_km": 3.47,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "73 Woodlands Central Road, Singapore",
+    "district": "Woodlands",
+    "distance_km": 4.15,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "269 Yishun Street 21, Singapore",
+    "district": "Yishun",
+    "distance_km": 3.55,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "178 Yishun Drive 6, Singapore",
+    "district": "Yishun",
+    "distance_km": 3.61,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "353 Yishun West Avenue, Singapore",
+    "district": "Yishun",
+    "distance_km": 2.6,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "317 Yishun Central Road, Singapore",
+    "district": "Yishun",
+    "distance_km": 3.41,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "106 Yishun Avenue 3, Singapore",
+    "district": "Yishun",
+    "distance_km": 1.87,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "26 Yishun Main Road, Singapore",
+    "district": "Yishun",
+    "distance_km": 0.65,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "219 Yishun Street 11, Singapore",
+    "district": "Yishun",
+    "distance_km": 0.79,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "133 Yishun South Avenue, Singapore",
+    "district": "Yishun",
+    "distance_km": 3.59,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "181 Yishun Main Road, Singapore",
+    "district": "Yishun",
+    "distance_km": 1.58,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "59 Yishun East Road, Singapore",
+    "district": "Yishun",
+    "distance_km": 1.41,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "160 Lim Chu Kang Drive 6, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 3.96,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "429 Lim Chu Kang Street 21, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 1.45,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "441 Lim Chu Kang East Road, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 2.33,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "414 Lim Chu Kang Central Road, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 0.1,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "266 Lim Chu Kang Avenue 3, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 3.36,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "109 Lim Chu Kang North Street, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 0.75,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "329 Lim Chu Kang Avenue 3, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 0.73,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "388 Lim Chu Kang Main Road, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 2.95,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "70 Lim Chu Kang Drive 6, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 2.42,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "164 Lim Chu Kang East Road, Singapore",
+    "district": "Lim Chu Kang",
+    "distance_km": 1.15,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "450 Mandai Avenue 5, Singapore",
+    "district": "Mandai",
+    "distance_km": 2.71,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "9 Mandai Main Road, Singapore",
+    "district": "Mandai",
+    "distance_km": 1.56,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "380 Mandai Avenue 3, Singapore",
+    "district": "Mandai",
+    "distance_km": 2.19,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "453 Mandai Main Road, Singapore",
+    "district": "Mandai",
+    "distance_km": 4.91,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "307 Mandai West Avenue, Singapore",
+    "district": "Mandai",
+    "distance_km": 1.25,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "254 Mandai Central Road, Singapore",
+    "district": "Mandai",
+    "distance_km": 2.16,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "413 Mandai West Avenue, Singapore",
+    "district": "Mandai",
+    "distance_km": 2.4,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "166 Mandai Street 21, Singapore",
+    "district": "Mandai",
+    "distance_km": 4.94,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "274 Mandai Street 11, Singapore",
+    "district": "Mandai",
+    "distance_km": 0.39,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "31 Mandai East Road, Singapore",
+    "district": "Mandai",
+    "distance_km": 3.69,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "188 Seletar Main Road, Singapore",
+    "district": "Seletar",
+    "distance_km": 0.4,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "470 Seletar East Road, Singapore",
+    "district": "Seletar",
+    "distance_km": 3.38,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "330 Seletar Avenue 3, Singapore",
+    "district": "Seletar",
+    "distance_km": 1.01,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "410 Seletar West Avenue, Singapore",
+    "district": "Seletar",
+    "distance_km": 1.44,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "169 Seletar Avenue 3, Singapore",
+    "district": "Seletar",
+    "distance_km": 3.45,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "117 Seletar Street 11, Singapore",
+    "district": "Seletar",
+    "distance_km": 0.74,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "307 Seletar South Avenue, Singapore",
+    "district": "Seletar",
+    "distance_km": 2.43,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "351 Seletar Drive 6, Singapore",
+    "district": "Seletar",
+    "distance_km": 3.44,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "316 Seletar Avenue 5, Singapore",
+    "district": "Seletar",
+    "distance_km": 2.42,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "463 Seletar North Street, Singapore",
+    "district": "Seletar",
+    "distance_km": 2.26,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "1 Simpang Avenue 3, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.0,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "11 Simpang Drive 6, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.05,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "267 Simpang Avenue 5, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.1,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "265 Simpang West Avenue, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.77,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "451 Simpang Avenue 3, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.39,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "168 Simpang South Avenue, Singapore",
+    "district": "Simpang",
+    "distance_km": 2.85,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "196 Simpang South Avenue, Singapore",
+    "district": "Simpang",
+    "distance_km": 3.78,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "335 Simpang South Avenue, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.61,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "106 Simpang Street 11, Singapore",
+    "district": "Simpang",
+    "distance_km": 1.94,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "80 Simpang Central Road, Singapore",
+    "district": "Simpang",
+    "distance_km": 4.63,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "109 Sungei Kadut Drive 6, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 3.46,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "332 Sungei Kadut Central Road, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 1.47,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "217 Sungei Kadut East Road, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 0.35,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "309 Sungei Kadut Main Road, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 1.67,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "256 Sungei Kadut Avenue 3, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 1.65,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "473 Sungei Kadut Drive 6, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 4.14,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "249 Sungei Kadut West Avenue, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 2.69,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "180 Sungei Kadut Central Road, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 1.72,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "246 Sungei Kadut Street 11, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 0.92,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "194 Sungei Kadut Avenue 3, Singapore",
+    "district": "Sungei Kadut",
+    "distance_km": 3.7,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "30 Western Islands Avenue 5, Singapore",
+    "district": "Western Islands",
+    "distance_km": 4.05,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "483 Western Islands Main Road, Singapore",
+    "district": "Western Islands",
+    "distance_km": 4.26,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "384 Western Islands Street 11, Singapore",
+    "district": "Western Islands",
+    "distance_km": 1.5,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "284 Western Islands North Street, Singapore",
+    "district": "Western Islands",
+    "distance_km": 1.96,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "174 Western Islands Street 11, Singapore",
+    "district": "Western Islands",
+    "distance_km": 2.06,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Sunrise Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "480 Western Islands North Street, Singapore",
+    "district": "Western Islands",
+    "distance_km": 1.75,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "451 Western Islands Avenue 5, Singapore",
+    "district": "Western Islands",
+    "distance_km": 2.13,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "103 Western Islands Street 11, Singapore",
+    "district": "Western Islands",
+    "distance_km": 0.77,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "500 Western Islands Main Road, Singapore",
+    "district": "Western Islands",
+    "distance_km": 0.33,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Sunrise Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "302 Western Islands Street 11, Singapore",
+    "district": "Western Islands",
+    "distance_km": 1.03,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "242 Western Water Catchment South Avenue, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 0.95,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "50 Western Water Catchment Avenue 5, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 3.2,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "290 Western Water Catchment Main Road, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 1.85,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "344 Western Water Catchment Street 11, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 2.64,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "7 Western Water Catchment West Avenue, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 0.68,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "106 Western Water Catchment West Avenue, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 2.17,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "193 Western Water Catchment West Avenue, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 0.84,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "297 Western Water Catchment West Avenue, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 4.05,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "450 Western Water Catchment Central Road, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 4.52,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "497 Western Water Catchment Street 21, Singapore",
+    "district": "Western Water Catchment",
+    "distance_km": 0.95,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "84 Downtown Core Avenue 3, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 3.63,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "239 Downtown Core Avenue 5, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 4.85,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "288 Downtown Core Avenue 5, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 1.59,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "56 Downtown Core East Road, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 3.67,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "261 Downtown Core Avenue 5, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 0.89,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "409 Downtown Core Central Road, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 3.72,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "17 Downtown Core Street 11, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 3.04,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "412 Downtown Core West Avenue, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 3.77,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "44 Downtown Core East Road, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 1.09,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "1 Downtown Core East Road, Singapore",
+    "district": "Downtown Core",
+    "distance_km": 1.07,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "422 Marina East West Avenue, Singapore",
+    "district": "Marina East",
+    "distance_km": 0.25,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "301 Marina East Central Road, Singapore",
+    "district": "Marina East",
+    "distance_km": 1.34,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "228 Marina East South Avenue, Singapore",
+    "district": "Marina East",
+    "distance_km": 4.62,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "79 Marina East South Avenue, Singapore",
+    "district": "Marina East",
+    "distance_km": 2.14,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "148 Marina East South Avenue, Singapore",
+    "district": "Marina East",
+    "distance_km": 0.14,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "122 Marina East Drive 6, Singapore",
+    "district": "Marina East",
+    "distance_km": 0.84,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "163 Marina East North Street, Singapore",
+    "district": "Marina East",
+    "distance_km": 1.61,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "443 Marina East Street 21, Singapore",
+    "district": "Marina East",
+    "distance_km": 0.67,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "461 Marina East West Avenue, Singapore",
+    "district": "Marina East",
+    "distance_km": 1.72,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Royal Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "51 Marina East Central Road, Singapore",
+    "district": "Marina East",
+    "distance_km": 0.1,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "269 Marina South Drive 6, Singapore",
+    "district": "Marina South",
+    "distance_km": 0.96,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "85 Marina South East Road, Singapore",
+    "district": "Marina South",
+    "distance_km": 2.2,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "310 Marina South West Avenue, Singapore",
+    "district": "Marina South",
+    "distance_km": 0.67,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Golden Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "80 Marina South North Street, Singapore",
+    "district": "Marina South",
+    "distance_km": 1.21,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "409 Marina South Avenue 3, Singapore",
+    "district": "Marina South",
+    "distance_km": 4.46,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Metro Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "57 Marina South South Avenue, Singapore",
+    "district": "Marina South",
+    "distance_km": 1.85,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Elite Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "324 Marina South Street 21, Singapore",
+    "district": "Marina South",
+    "distance_km": 0.9,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "297 Marina South Street 21, Singapore",
+    "district": "Marina South",
+    "distance_km": 4.27,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "253 Marina South Main Road, Singapore",
+    "district": "Marina South",
+    "distance_km": 1.86,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "486 Marina South Avenue 5, Singapore",
+    "district": "Marina South",
+    "distance_km": 4.18,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "66 Museum Street 21, Singapore",
+    "district": "Museum",
+    "distance_km": 3.87,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "248 Museum Central Road, Singapore",
+    "district": "Museum",
+    "distance_km": 0.72,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "352 Museum Street 11, Singapore",
+    "district": "Museum",
+    "distance_km": 1.2,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "202 Museum North Street, Singapore",
+    "district": "Museum",
+    "distance_km": 1.87,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "15 Museum Central Road, Singapore",
+    "district": "Museum",
+    "distance_km": 4.84,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "72 Museum West Avenue, Singapore",
+    "district": "Museum",
+    "distance_km": 4.95,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "360 Museum Central Road, Singapore",
+    "district": "Museum",
+    "distance_km": 2.36,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "45 Museum Street 21, Singapore",
+    "district": "Museum",
+    "distance_km": 3.03,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "302 Museum East Road, Singapore",
+    "district": "Museum",
+    "distance_km": 2.33,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "498 Museum West Avenue, Singapore",
+    "district": "Museum",
+    "distance_km": 2.85,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "4 Newton Avenue 5, Singapore",
+    "district": "Newton",
+    "distance_km": 3.65,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "496 Newton Street 21, Singapore",
+    "district": "Newton",
+    "distance_km": 1.89,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Sunrise Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "7 Newton West Avenue, Singapore",
+    "district": "Newton",
+    "distance_km": 2.85,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "247 Newton South Avenue, Singapore",
+    "district": "Newton",
+    "distance_km": 2.94,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "464 Newton Avenue 5, Singapore",
+    "district": "Newton",
+    "distance_km": 2.11,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "273 Newton Main Road, Singapore",
+    "district": "Newton",
+    "distance_km": 2.78,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Royal Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "293 Newton Street 21, Singapore",
+    "district": "Newton",
+    "distance_km": 2.41,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "421 Newton Main Road, Singapore",
+    "district": "Newton",
+    "distance_km": 4.14,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Sunrise Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "133 Newton Avenue 3, Singapore",
+    "district": "Newton",
+    "distance_km": 4.57,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "104 Newton Central Road, Singapore",
+    "district": "Newton",
+    "distance_km": 4.14,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "182 Orchard South Avenue, Singapore",
+    "district": "Orchard",
+    "distance_km": 2.47,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "50 Orchard West Avenue, Singapore",
+    "district": "Orchard",
+    "distance_km": 2.86,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Sunrise Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "203 Orchard South Avenue, Singapore",
+    "district": "Orchard",
+    "distance_km": 2.98,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Supreme Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "121 Orchard Avenue 3, Singapore",
+    "district": "Orchard",
+    "distance_km": 4.79,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "22 Orchard Avenue 5, Singapore",
+    "district": "Orchard",
+    "distance_km": 3.43,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "407 Orchard Drive 6, Singapore",
+    "district": "Orchard",
+    "distance_km": 2.22,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "462 Orchard North Street, Singapore",
+    "district": "Orchard",
+    "distance_km": 0.92,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Harmony Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "103 Orchard Drive 6, Singapore",
+    "district": "Orchard",
+    "distance_km": 2.6,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "90 Orchard Avenue 3, Singapore",
+    "district": "Orchard",
+    "distance_km": 3.77,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "2 Orchard South Avenue, Singapore",
+    "district": "Orchard",
+    "distance_km": 1.72,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "89 Outram Avenue 3, Singapore",
+    "district": "Outram",
+    "distance_km": 4.25,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "411 Outram Avenue 5, Singapore",
+    "district": "Outram",
+    "distance_km": 3.85,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "397 Outram Drive 6, Singapore",
+    "district": "Outram",
+    "distance_km": 1.33,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "389 Outram North Street, Singapore",
+    "district": "Outram",
+    "distance_km": 4.61,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "481 Outram Main Road, Singapore",
+    "district": "Outram",
+    "distance_km": 1.28,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Prudent Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "184 Outram West Avenue, Singapore",
+    "district": "Outram",
+    "distance_km": 0.89,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "486 Outram West Avenue, Singapore",
+    "district": "Outram",
+    "distance_km": 3.91,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "486 Outram Central Road, Singapore",
+    "district": "Outram",
+    "distance_km": 3.8,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "83 Outram Main Road, Singapore",
+    "district": "Outram",
+    "distance_km": 4.13,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "52 Outram East Road, Singapore",
+    "district": "Outram",
+    "distance_km": 3.14,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "128 Singapore River South Avenue, Singapore",
+    "district": "Singapore River",
+    "distance_km": 3.0,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Royal Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "59 Singapore River Street 21, Singapore",
+    "district": "Singapore River",
+    "distance_km": 2.58,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "55 Singapore River East Road, Singapore",
+    "district": "Singapore River",
+    "distance_km": 1.43,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Elite Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "345 Singapore River Main Road, Singapore",
+    "district": "Singapore River",
+    "distance_km": 2.05,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Elite Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "39 Singapore River East Road, Singapore",
+    "district": "Singapore River",
+    "distance_km": 2.07,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "216 Singapore River West Avenue, Singapore",
+    "district": "Singapore River",
+    "distance_km": 4.06,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "137 Singapore River Central Road, Singapore",
+    "district": "Singapore River",
+    "distance_km": 1.03,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "365 Singapore River Street 21, Singapore",
+    "district": "Singapore River",
+    "distance_km": 4.31,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "318 Singapore River Avenue 3, Singapore",
+    "district": "Singapore River",
+    "distance_km": 3.59,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "367 Singapore River Street 21, Singapore",
+    "district": "Singapore River",
+    "distance_km": 4.42,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "375 Southern Islands Street 11, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 2.09,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Royal Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "394 Southern Islands Main Road, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 3.67,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "127 Southern Islands Street 21, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 4.38,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "330 Southern Islands West Avenue, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 1.16,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "470 Southern Islands Avenue 5, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 2.25,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "54 Southern Islands West Avenue, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 4.63,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "195 Southern Islands Street 11, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 3.91,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "71 Southern Islands East Road, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 0.88,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "53 Southern Islands Central Road, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 0.76,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "287 Southern Islands Street 11, Singapore",
+    "district": "Southern Islands",
+    "distance_km": 2.59,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Royal Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "72 Straits View Central Road, Singapore",
+    "district": "Straits View",
+    "distance_km": 2.55,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "276 Straits View Drive 6, Singapore",
+    "district": "Straits View",
+    "distance_km": 3.19,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Harmony Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "136 Straits View Main Road, Singapore",
+    "district": "Straits View",
+    "distance_km": 0.39,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "10 Straits View Street 11, Singapore",
+    "district": "Straits View",
+    "distance_km": 2.35,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "85 Straits View East Road, Singapore",
+    "district": "Straits View",
+    "distance_km": 4.88,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "469 Straits View Street 11, Singapore",
+    "district": "Straits View",
+    "distance_km": 4.67,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "234 Straits View East Road, Singapore",
+    "district": "Straits View",
+    "distance_km": 2.2,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "259 Straits View Central Road, Singapore",
+    "district": "Straits View",
+    "distance_km": 1.07,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "294 Straits View North Street, Singapore",
+    "district": "Straits View",
+    "distance_km": 0.11,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "122 Straits View Avenue 5, Singapore",
+    "district": "Straits View",
+    "distance_km": 1.5,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "67 Bayfront Avenue 5, Singapore",
+    "district": "Bayfront",
+    "distance_km": 2.41,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Prudent Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "269 Bayfront West Avenue, Singapore",
+    "district": "Bayfront",
+    "distance_km": 1.22,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "454 Bayfront Drive 6, Singapore",
+    "district": "Bayfront",
+    "distance_km": 2.77,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "73 Bayfront East Road, Singapore",
+    "district": "Bayfront",
+    "distance_km": 1.01,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "105 Bayfront Avenue 3, Singapore",
+    "district": "Bayfront",
+    "distance_km": 1.56,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Elite Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "467 Bayfront Central Road, Singapore",
+    "district": "Bayfront",
+    "distance_km": 4.41,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "445 Bayfront Avenue 3, Singapore",
+    "district": "Bayfront",
+    "distance_km": 3.55,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "441 Bayfront Main Road, Singapore",
+    "district": "Bayfront",
+    "distance_km": 2.63,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "211 Bayfront Street 21, Singapore",
+    "district": "Bayfront",
+    "distance_km": 2.06,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "479 Bayfront Street 21, Singapore",
+    "district": "Bayfront",
+    "distance_km": 4.35,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "361 Fort Canning East Road, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 2.98,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "241 Fort Canning Drive 6, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 0.11,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "488 Fort Canning Avenue 3, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 2.11,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "73 Fort Canning West Avenue, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 3.75,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "446 Fort Canning Drive 6, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 2.33,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "391 Fort Canning North Street, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 3.4,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "412 Fort Canning Central Road, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 0.48,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "256 Fort Canning North Street, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 3.49,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "403 Fort Canning North Street, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 3.97,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "45 Fort Canning Street 11, Singapore",
+    "district": "Fort Canning",
+    "distance_km": 0.45,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Classic Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "245 Harbourfront West Avenue, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 0.37,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "307 Harbourfront Central Road, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 2.01,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Golden Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "177 Harbourfront South Avenue, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 3.54,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Royal Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "389 Harbourfront Street 11, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 1.0,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Harmony Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "455 Harbourfront Avenue 3, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 3.9,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "157 Harbourfront North Street, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 4.27,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Prudent Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "288 Harbourfront Street 11, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 3.02,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "168 Harbourfront Street 21, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 3.24,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "473 Harbourfront Avenue 5, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 4.03,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "91 Harbourfront Main Road, Singapore",
+    "district": "Harbourfront",
+    "distance_km": 4.27,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Royal Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "259 Little India Main Road, Singapore",
+    "district": "Little India",
+    "distance_km": 3.68,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "390 Little India Avenue 3, Singapore",
+    "district": "Little India",
+    "distance_km": 2.69,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "68 Little India West Avenue, Singapore",
+    "district": "Little India",
+    "distance_km": 0.95,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Metro Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "131 Little India Main Road, Singapore",
+    "district": "Little India",
+    "distance_km": 2.95,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "137 Little India Street 11, Singapore",
+    "district": "Little India",
+    "distance_km": 2.57,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Luxe Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "366 Little India Street 11, Singapore",
+    "district": "Little India",
+    "distance_km": 2.26,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Classic Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "337 Little India Avenue 3, Singapore",
+    "district": "Little India",
+    "distance_km": 4.7,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "180 Little India Main Road, Singapore",
+    "district": "Little India",
+    "distance_km": 1.27,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Golden Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 Little India Drive 6, Singapore",
+    "district": "Little India",
+    "distance_km": 0.59,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "365 Little India West Avenue, Singapore",
+    "district": "Little India",
+    "distance_km": 0.61,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Sunrise Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "249 City Hall Street 21, Singapore",
+    "district": "City Hall",
+    "distance_km": 2.55,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "393 City Hall Avenue 3, Singapore",
+    "district": "City Hall",
+    "distance_km": 1.96,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Elite Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "370 City Hall Avenue 5, Singapore",
+    "district": "City Hall",
+    "distance_km": 1.24,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Classic Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "95 City Hall Avenue 3, Singapore",
+    "district": "City Hall",
+    "distance_km": 4.24,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Metro Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "211 City Hall Main Road, Singapore",
+    "district": "City Hall",
+    "distance_km": 4.28,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Supreme Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "157 City Hall Street 21, Singapore",
+    "district": "City Hall",
+    "distance_km": 4.08,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Elite Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "173 City Hall Street 21, Singapore",
+    "district": "City Hall",
+    "distance_km": 4.43,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Prudent Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "349 City Hall Avenue 3, Singapore",
+    "district": "City Hall",
+    "distance_km": 0.66,
+    "gold_price_916": 73.5,
+    "gold_price_999": 78.4
+  },
+  {
+    "shop_name": "Metro Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "307 City Hall Street 11, Singapore",
+    "district": "City Hall",
+    "distance_km": 2.89,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Luxe Goldsmith",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "312 City Hall Street 21, Singapore",
+    "district": "City Hall",
+    "distance_km": 2.24,
+    "gold_price_916": 71.25,
+    "gold_price_999": 76.0
+  },
+  {
+    "shop_name": "Classic Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "124 Bras Basah Central Road, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 0.3,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Prudent Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "180 Bras Basah South Avenue, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 4.27,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "199 Bras Basah Avenue 5, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 1.08,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Royal Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "447 Bras Basah Central Road, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 4.49,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "378 Bras Basah Avenue 5, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 4.88,
+    "gold_price_916": 72.75,
+    "gold_price_999": 77.6
+  },
+  {
+    "shop_name": "Golden Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "117 Bras Basah South Avenue, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 0.88,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "68 Bras Basah Main Road, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 4.81,
+    "gold_price_916": 77.25,
+    "gold_price_999": 82.4
+  },
+  {
+    "shop_name": "Prudent Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "399 Bras Basah Central Road, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 4.33,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "100 Bras Basah South Avenue, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 0.28,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Luxe Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "443 Bras Basah East Road, Singapore",
+    "district": "Bras Basah",
+    "distance_km": 0.18,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Golden Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "237 Tanjong Pagar Main Road, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 4.13,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  },
+  {
+    "shop_name": "Harmony Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "273 Tanjong Pagar Avenue 3, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 4.84,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Supreme Gold Traders",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "239 Tanjong Pagar South Avenue, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 0.47,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Gallery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "363 Tanjong Pagar Street 11, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 3.31,
+    "gold_price_916": 76.5,
+    "gold_price_999": 81.6
+  },
+  {
+    "shop_name": "Golden Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "140 Tanjong Pagar East Road, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 1.84,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Classic Jewellery",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "138 Tanjong Pagar Street 11, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 2.8,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Luxe Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "179 Tanjong Pagar Street 21, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 4.2,
+    "gold_price_916": 72.0,
+    "gold_price_999": 76.8
+  },
+  {
+    "shop_name": "Elite Gold Hub",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "307 Tanjong Pagar Avenue 3, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 2.84,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Luxe Gold House",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "488 Tanjong Pagar Main Road, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 4.86,
+    "gold_price_916": 78.75,
+    "gold_price_999": 84.0
+  },
+  {
+    "shop_name": "Supreme Gold Centre",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "shop_address": "223 Tanjong Pagar Drive 6, Singapore",
+    "district": "Tanjong Pagar",
+    "distance_km": 2.34,
+    "gold_price_916": 78.0,
+    "gold_price_999": 83.2
+  }
+]

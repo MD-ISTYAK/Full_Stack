@@ -26,17 +26,17 @@ const BestPriceCard = ({ shop, goldType, price, label }) => {
 
         {/* Price */}
         <div className="flex items-baseline space-x-2 mb-3">
-          <span className="text-3xl font-bold text-yellow-500 font-mono">${price}</span>
+          <span className="text-3xl font-bold text-yellow-500 font-mono">₹{price}</span>
           <span className="text-sm text-gray-400">/gram</span>
           <div className="bg-yellow-600/20 px-2 py-1 rounded">
-            <span className="text-xs text-yellow-300 font-medium">{goldType}</span>
+            <span className="text-xs text-yellow-300 font-medium">{goldType === '916' ? '22K' : goldType === '999' ? '24K' : goldType}</span>
           </div>
         </div>
 
         {/* Location */}
         <div className="flex items-center space-x-2 mb-3">
           <MapPin className="w-4 h-4 text-gray-400" />
-          <span className="text-sm text-gray-400">{shop.district}</span>
+          <span className="text-sm text-gray-400">{shop.state}</span>
         </div>
 
         {/* Last Updated */}

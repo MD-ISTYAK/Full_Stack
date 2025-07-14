@@ -25,36 +25,31 @@ const ShopCard = ({ shop, showDistance = true }) => {
   };
 
   return (
-    <Link to={`/shop/${shop.id}`} className="block h-full">
-      <div className="bg-gray-900/50 backdrop-blur-sm border border-yellow-500/20 rounded-xl p-6 hover:bg-gray-900/70 hover:border-yellow-500/40 transition-all duration-300 hover:scale-105 group h-full flex flex-col">
+    <Link to={`/shop/${shop.id}`} className="block">
+      <div className="bg-gray-900/50 backdrop-blur-sm border border-yellow-500/20 rounded-xl p-6 hover:bg-gray-900/70 hover:border-yellow-500/40 transition-all duration-300 hover:scale-105 group flex flex-col w-full max-w-[320px] min-w-[280px] min-h-[340px] h-full mx-auto">
         
         {/* Shop Header - Fixed Height */}
-        <div className="flex justify-between items-start mb-4 min-h-[80px]">
-          <div className="flex-1 pr-3">
-            {/* Shop Name - Fixed Height Container */}
-            <div className="min-h-[56px] flex items-start">
-              <h3 className="text-lg font-bold text-white group-hover:text-yellow-400 transition-colors font-serif line-clamp-2 leading-7">
-                {shop.name}
-              </h3>
-            </div>
-            
-            {/* Location - Fixed Height */}
-            <div className="flex items-center space-x-2 mt-2 min-h-[20px]">
-              <MapPin className="w-4 h-4 text-gray-400 flex-shrink-0" />
-              <span className="text-sm text-gray-400 truncate">{shop.district}</span>
-              {showDistance && (
-                <>
-                  <span className="text-gray-600">•</span>
-                  <span className="text-sm text-gray-400 flex-shrink-0">{shop.distance} km</span>
-                </>
-              )}
+        <div className="flex flex-col mb-4 min-h-[80px]">
+          {/* Shop Name - Fixed Height Container */}
+          <div className="min-h-[56px] flex flex-col items-start w-full">
+            <h3 className="text-lg font-bold text-white group-hover:text-yellow-400 transition-colors font-serif line-clamp-2 leading-7 w-full">
+              {shop.name}
+            </h3>
+            <div className="flex items-center space-x-1 bg-green-900/30 px-2 py-1 rounded-full mt-2">
+              <Star className="w-4 h-4 fill-yellow-500 text-yellow-500" />
+              <span className="text-sm text-green-400">{shop.rating}</span>
             </div>
           </div>
-          
-          {/* Rating - Fixed Position */}
-          <div className="flex items-center space-x-1 bg-green-900/30 px-2 py-1 rounded-full flex-shrink-0">
-            <Star className="w-4 h-4 fill-yellow-500 text-yellow-500" />
-            <span className="text-sm text-green-400">{shop.rating}</span>
+          {/* Location - Fixed Height */}
+          <div className="flex items-center space-x-2 mt-2 min-h-[20px] w-full">
+            <MapPin className="w-4 h-4 text-gray-400 flex-shrink-0" />
+            <span className="text-sm text-gray-400 truncate w-full">{shop.state}</span>
+            {showDistance && (
+              <>
+                <span className="text-gray-600">•</span>
+                <span className="text-sm text-gray-400 flex-shrink-0">{shop.distance} km</span>
+              </>
+            )}
           </div>
         </div>
 
@@ -62,28 +57,28 @@ const ShopCard = ({ shop, showDistance = true }) => {
         <div className="grid grid-cols-2 gap-4 mb-4 flex-grow min-h-[120px]">
           <div className="bg-black/30 rounded-lg p-3 border border-yellow-500/10 flex flex-col">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-xs text-gray-400">916 Gold</span>
+              <span className="text-xs text-gray-400">22K Gold</span>
               <div className="flex items-center space-x-1">
                 <TrendingUp className="w-3 h-3 text-green-400" />
-                <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-0.5 rounded">916</span>
+                <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-0.5 rounded">22K</span>
               </div>
             </div>
             <div className="flex-grow flex flex-col justify-center">
-              <div className="text-xl font-bold text-yellow-500 font-mono">${shop.goldPrices.price916}</div>
+              <div className="text-xl font-bold text-yellow-500 font-mono">₹{shop.goldPrices.price22K}</div>
               <div className="text-xs text-gray-500">/gram</div>
             </div>
           </div>
           
           <div className="bg-black/30 rounded-lg p-3 border border-yellow-500/10 flex flex-col">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-xs text-gray-400">999 Gold</span>
+              <span className="text-xs text-gray-400">24K Gold</span>
               <div className="flex items-center space-x-1">
                 <TrendingUp className="w-3 h-3 text-green-400" />
-                <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-0.5 rounded">999</span>
+                <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-0.5 rounded">24K</span>
               </div>
             </div>
             <div className="flex-grow flex flex-col justify-center">
-              <div className="text-xl font-bold text-yellow-500 font-mono">${shop.goldPrices.price999}</div>
+              <div className="text-xl font-bold text-yellow-500 font-mono">₹{shop.goldPrices.price24K}</div>
               <div className="text-xs text-gray-500">/gram</div>
             </div>
           </div>

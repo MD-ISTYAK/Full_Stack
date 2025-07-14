@@ -1,0 +1,182 @@
+[
+  {
+    "#":1,
+    "Shop \/ Retail Chain":"Tanishq (Titan)",
+    "Location":"Pan-India",
+    "22-Carat (1g)":9135,
+    "24-Carat (1g)":9971,
+    "Rating":4.5,
+    "Address":"Multiple branches across India, Head office: Hosur, Tamil Nadu"
+  },
+  {
+    "#":2,
+    "Shop \/ Retail Chain":"Malabar Gold & Diamonds",
+    "Location":"Kerala, Mumbai, Delhi, etc.",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.4,
+    "Address":"Head Office: Kozhikode, Kerala"
+  },
+  {
+    "#":3,
+    "Shop \/ Retail Chain":"Kalyan Jewellers",
+    "Location":"Pan-India",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Thrissur, Kerala"
+  },
+  {
+    "#":4,
+    "Shop \/ Retail Chain":"Joyalukkas",
+    "Location":"South India, UAE",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.2,
+    "Address":"Ernakulam, Kerala"
+  },
+  {
+    "#":5,
+    "Shop \/ Retail Chain":"CaratLane",
+    "Location":"Online + Metro Cities",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.4,
+    "Address":"Chennai, Tamil Nadu"
+  },
+  {
+    "#":6,
+    "Shop \/ Retail Chain":"Bluestone",
+    "Location":"Online + Metro Cities",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Bangalore, Karnataka"
+  },
+  {
+    "#":7,
+    "Shop \/ Retail Chain":"P. N. Gadgil Jewellers",
+    "Location":"Maharashtra",
+    "22-Carat (1g)":9160,
+    "24-Carat (1g)":9993,
+    "Rating":4.4,
+    "Address":"Pune, Maharashtra"
+  },
+  {
+    "#":8,
+    "Shop \/ Retail Chain":"PC Chandra Jewellers",
+    "Location":"West Bengal",
+    "22-Carat (1g)":9160,
+    "24-Carat (1g)":9993,
+    "Rating":4.2,
+    "Address":"Kolkata, West Bengal"
+  },
+  {
+    "#":9,
+    "Shop \/ Retail Chain":"TBZ Zaveri Bazaar",
+    "Location":"Mumbai",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Zaveri Bazaar, Mumbai"
+  },
+  {
+    "#":10,
+    "Shop \/ Retail Chain":"Bhima Jewellers",
+    "Location":"Kerala, Karnataka",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Trivandrum, Kerala"
+  },
+  {
+    "#":11,
+    "Shop \/ Retail Chain":"Senco Gold",
+    "Location":"East India",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.2,
+    "Address":"Kolkata, West Bengal"
+  },
+  {
+    "#":12,
+    "Shop \/ Retail Chain":"The Gem Palace",
+    "Location":"Jaipur",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.5,
+    "Address":"MI Road, Jaipur, Rajasthan"
+  },
+  {
+    "#":13,
+    "Shop \/ Retail Chain":"Amrapali Jewels",
+    "Location":"Jaipur",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.4,
+    "Address":"Panch Batti, Jaipur"
+  },
+  {
+    "#":14,
+    "Shop \/ Retail Chain":"Hazoorilal",
+    "Location":"Delhi",
+    "22-Carat (1g)":9160,
+    "24-Carat (1g)":9993,
+    "Rating":4.5,
+    "Address":"Greater Kailash, New Delhi"
+  },
+  {
+    "#":15,
+    "Shop \/ Retail Chain":"Khanna Jewellers",
+    "Location":"Delhi",
+    "22-Carat (1g)":9160,
+    "24-Carat (1g)":9993,
+    "Rating":4.2,
+    "Address":"Karol Bagh, New Delhi"
+  },
+  {
+    "#":16,
+    "Shop \/ Retail Chain":"Champalal & Co.",
+    "Location":"Chennai",
+    "22-Carat (1g)":9160,
+    "24-Carat (1g)":9993,
+    "Rating":4.1,
+    "Address":"T. Nagar, Chennai"
+  },
+  {
+    "#":17,
+    "Shop \/ Retail Chain":"Vummidi Bangaru Jewellers",
+    "Location":"Chennai",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Anna Salai, Chennai"
+  },
+  {
+    "#":18,
+    "Shop \/ Retail Chain":"Joy Alukkas",
+    "Location":"South India",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.4,
+    "Address":"Multiple locations in Kerala, TN"
+  },
+  {
+    "#":19,
+    "Shop \/ Retail Chain":"Manubhai Jewellers",
+    "Location":"Mumbai",
+    "22-Carat (1g)":9155,
+    "24-Carat (1g)":9988,
+    "Rating":4.3,
+    "Address":"Borivali, Mumbai"
+  },
+  {
+    "#":20,
+    "Shop \/ Retail Chain":"Local Sarafa Market",
+    "Location":"Delhi\/Indore\/Varanasi",
+    "22-Carat (1g)":9170,
+    "24-Carat (1g)":10003,
+    "Rating":3.9,
+    "Address":"Local Gold Bazaars"
+  }
+]

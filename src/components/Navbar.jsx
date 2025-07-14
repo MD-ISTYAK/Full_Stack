@@ -19,7 +19,7 @@ const Navbar = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold text-yellow-500 font-serif">GoldCompare</h1>
-              <p className="text-xs text-gray-400">Singapore</p>
+              <p className="text-xs text-gray-400">India</p>
             </div>
           </Link>
 

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Filter, MapPin, Star, Navigation, ChevronDown, ChevronUp, X } from 'lucide-react';
-import { generateShops, districts } from '../data/dataLoader';
+import { generateShops, stateList } from '../data/dataLoader';
 import { useLocation } from '../context/LocationContext';
 import { sortShopsByDistance } from '../utils/distanceUtils';
 import ShopCard from '../components/ShopCard';
@@ -10,7 +10,7 @@ const AllShops = () => {
   const [shops, setShops] = useState([]);
   const [filteredShops, setFilteredShops] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
-  const [searchType, setSearchType] = useState('shop');
+  const [searchType, setSearchType] = useState('location');
   const [selectedGoldType, setSelectedGoldType] = useState('all');
   const [sortBy, setSortBy] = useState('name');
   const [ratingFilter, setRatingFilter] = useState('all');
@@ -25,8 +25,8 @@ const AllShops = () => {
 
   const { userLocation, isNearbyMode, toggleNearbyMode, setManualLocation } = useLocation();
 
-  // Use districts from dataLoader
-  const singaporeLocations = districts;
+  // Use states from dataLoader
+  const indiaLocations = stateList;
 
   useEffect(() => {
     const generatedShops = generateShops();
@@ -46,9 +46,9 @@ const AllShops = () => {
     // Apply search filter only if user has searched
     if (hasSearched && searchTerm.trim()) {
       if (searchType === 'location') {
-        // Location search - prefix match on district
+        // Location search - prefix match on state
         filtered = filtered.filter(shop => 
-          shop.district.toLowerCase().startsWith(searchTerm.toLowerCase())
+          shop.state && shop.state.toLowerCase().startsWith(searchTerm.toLowerCase())
         );
       } else {
         // Shop name search - prefix match on shop name
@@ -141,7 +141,7 @@ const AllShops = () => {
       
       if (searchType === 'location') {
         // Generate alphabetical suggestions for locations
-        filteredSuggestions = singaporeLocations
+        filteredSuggestions = indiaLocations
           .filter(location => location.toLowerCase().startsWith(value.toLowerCase()))
           .sort()
           .slice(0, 10);
@@ -272,25 +272,11 @@ const AllShops = () => {
         // Show manual location input
         const location = prompt('Enter your location (e.g., "Orchard", "Bedok"):');
         if (location && location.trim()) {
-          // Set manual location (using district coordinates as approximation)
-          const district = districts.find(d => d.toLowerCase().includes(location.toLowerCase()));
-          if (district) {
-            // Find approximate coordinates for the district
-            const districtCoords = {
-              'Ang Mo Kio': { lat: 1.3691, lng: 103.8454 },
-              'Bedok': { lat: 1.3240, lng: 103.9300 },
-              'Bishan': { lat: 1.3521, lng: 103.8198 },
-              'Orchard': { lat: 1.3000, lng: 103.8400 },
-              'Marina Bay': { lat: 1.2800, lng: 103.8500 },
-              'Chinatown': { lat: 1.2800, lng: 103.8300 },
-              'Little India': { lat: 1.3000, lng: 103.8500 },
-              'Bugis': { lat: 1.3000, lng: 103.8500 },
-              'Raffles Place': { lat: 1.2800, lng: 103.8500 },
-              'Tanjong Pagar': { lat: 1.2800, lng: 103.8300 }
-            };
-            
-            const coords = districtCoords[district] || { lat: 1.3521, lng: 103.8198 }; // Default to Singapore center
-            setManualLocation(coords.lat, coords.lng);
+          // Set manual location (using state as placeholder)
+          const state = stateList.find(s => s.toLowerCase().includes(location.toLowerCase()));
+          if (state) {
+            // Placeholder: no coordinates for now
+            setManualLocation(1.3521, 103.8198); // Default to Singapore center
             setSearchTerm(location);
             setHasSearched(true);
             setDisplayedShops(8);
@@ -317,7 +303,7 @@ const AllShops = () => {
       };
     } else if (isNearbyMode && userLocation && !searchTerm.trim()) {
       return {
-        title: "All Gold Shops",
+        title: "All Gold Shops in India",
         subtitle: `${totalResults} shops with competitive gold prices`
       };
     } else if (hasSearched && searchTerm.trim()) {
@@ -327,7 +313,7 @@ const AllShops = () => {
       };
     } else {
       return {
-        title: "All Gold Shops",
+        title: "All Gold Shops in India",
         subtitle: `${totalResults} shops with competitive gold prices`
       };
     }
@@ -346,7 +332,7 @@ const AllShops = () => {
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 font-serif">
               {headerContent.title}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-600 block">
-                in Singapore
+                in India
               </span>
             </h1>
             <p className="text-lg text-gray-300 max-w-2xl mx-auto">
@@ -394,66 +380,31 @@ const AllShops = () => {
               </button>
             </div>
 
-            {/* Search Bar */}
-            <div className="flex flex-col md:flex-row gap-4 mb-6">
-              <div className="flex-1 relative">
-                <Search className="absolute left-3 top-3 w-5 h-5 text-gray-400" />
-                <input
-                  type="text"
-                  placeholder={searchType === 'location' ? 'Search by location...' : 'Search by shop name...'}
-                  value={searchTerm}
-                  onChange={handleSearchChange}
-                  onKeyDown={handleKeyDown}
-                  onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
-                  onFocus={() => {
-                    if (searchTerm.length > 0 && suggestions.length > 0) {
-                      setShowSuggestions(true);
-                    }
-                  }}
-                  className="w-full pl-10 pr-12 py-3 bg-gray-800 border border-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-500 focus:border-transparent"
-                />
-                
-                {/* Clear button */}
-                {searchTerm && (
-                  <button
-                    onClick={handleClearSearch}
-                    className="absolute right-3 top-3 w-5 h-5 text-gray-400 hover:text-white transition-colors"
-                  >
-                    <X className="w-5 h-5" />
-                  </button>
-                )}
-                
-                {/* Search Suggestions */}
-                {showSuggestions && (
-                  <div className="absolute top-full left-0 right-0 bg-gray-800 border border-gray-700 rounded-lg mt-1 z-10 max-h-60 overflow-y-auto">
-                    {suggestions.length > 0 ? (
-                      suggestions.map((suggestion, index) => (
-                        <button
-                          key={index}
-                          onClick={() => handleSuggestionClick(suggestion)}
-                          className={`w-full text-left px-4 py-2 text-white transition-colors ${
-                            index === activeSuggestionIndex 
-                              ? 'bg-yellow-500 text-black' 
-                              : 'hover:bg-gray-700'
-                          }`}
-                        >
-                          {suggestion}
-                        </button>
-                      ))
-                    ) : (
-                      <div className="px-4 py-2 text-gray-400">
-                        No {searchType === 'location' ? 'locations' : 'shops'} found starting with '{searchTerm}'
-                      </div>
-                    )}
-                  </div>
-                )}
+            {/* Search Bar Arrangement */}
+            <div className="flex flex-col md:flex-row md:items-center md:space-x-4 mb-6">
+              <div className="flex items-center space-x-2 mb-2 md:mb-0">
+                <button
+                  className={`px-4 py-2 rounded-l-lg font-medium transition-all ${searchType === 'location' ? 'bg-yellow-500 text-black' : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white'}`}
+                  onClick={() => setSearchType('location')}
+                >
+                  Search by Location
+                </button>
+                <button
+                  className={`px-4 py-2 rounded-r-lg font-medium transition-all ${searchType === 'shop' ? 'bg-yellow-500 text-black' : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white'}`}
+                  onClick={() => setSearchType('shop')}
+                >
+                  Search by Shop Name
+                </button>
               </div>
-              <button
-                onClick={handleSearch}
-                className="px-8 py-3 bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-medium rounded-lg hover:from-yellow-500 hover:to-yellow-700 transition-all hover:scale-105"
-              >
-                Search
-              </button>
+              <input
+                type="text"
+                className="flex-1 px-4 py-2 rounded-lg bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring-2 focus:ring-yellow-500"
+                placeholder={searchType === 'location' ? 'Enter state/location...' : 'Enter shop name...'}
+                value={searchTerm}
+                onChange={handleSearchChange}
+                onKeyDown={handleKeyDown}
+                autoFocus
+              />
             </div>
 
             {/* Filter Options - Always Visible */}
@@ -478,7 +429,7 @@ const AllShops = () => {
                       : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
                   }`}
                 >
-                  916
+                  22K
                 </button>
                 <button
                   onClick={() => setSelectedGoldType('999')}
@@ -488,7 +439,7 @@ const AllShops = () => {
                       : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
                   }`}
                 >
-                  999
+                  24K
                 </button>
               </div>
 

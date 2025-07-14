@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, MapPin, Filter, TrendingUp, Store, ChevronDown, ChevronUp, Navigation, X } from 'lucide-react';
-import { generateShops, districts } from '../data/dataLoader';
+import { generateShops, stateList } from '../data/dataLoader';
 import { useLocation } from '../context/LocationContext';
 import { sortShopsByDistance } from '../utils/distanceUtils';
 import ShopCard from '../components/ShopCard';
@@ -29,8 +29,8 @@ const Home = () => {
 
   const { userLocation, isNearbyMode, toggleNearbyMode, locationPermission, setManualLocation } = useLocation();
 
-  // Use districts from dataLoader
-  const singaporeLocations = districts;
+  // Use states from dataLoader
+  const indiaLocations = stateList;
 
   // Function to sort shops by price then distance
   const sortByPriceThenDistance = (shopsToSort) => {
@@ -89,9 +89,9 @@ const Home = () => {
     // Apply search filter only if user has searched
     if (hasSearched && searchTerm.trim()) {
       if (searchType === 'location') {
-        // Location search - prefix match on district
+        // Location search - prefix match on state
         filtered = filtered.filter(shop => 
-          shop.district.toLowerCase().startsWith(searchTerm.toLowerCase())
+          shop.state && shop.state.toLowerCase().startsWith(searchTerm.toLowerCase())
         );
       } else {
         // Shop name search - prefix match on shop name
@@ -177,7 +177,7 @@ const Home = () => {
       
       if (searchType === 'location') {
         // Generate alphabetical suggestions for locations
-        filteredSuggestions = singaporeLocations
+        filteredSuggestions = indiaLocations
           .filter(location => location.toLowerCase().startsWith(value.toLowerCase()))
           .sort()
           .slice(0, 10);
@@ -311,25 +311,11 @@ const Home = () => {
         // Show manual location input
         const location = prompt('Enter your location (e.g., "Orchard", "Bedok"):');
         if (location && location.trim()) {
-          // Set manual location (using district coordinates as approximation)
-          const district = districts.find(d => d.toLowerCase().includes(location.toLowerCase()));
-          if (district) {
-            // Find approximate coordinates for the district
-            const districtCoords = {
-              'Ang Mo Kio': { lat: 1.3691, lng: 103.8454 },
-              'Bedok': { lat: 1.3240, lng: 103.9300 },
-              'Bishan': { lat: 1.3521, lng: 103.8198 },
-              'Orchard': { lat: 1.3000, lng: 103.8400 },
-              'Marina Bay': { lat: 1.2800, lng: 103.8500 },
-              'Chinatown': { lat: 1.2800, lng: 103.8300 },
-              'Little India': { lat: 1.3000, lng: 103.8500 },
-              'Bugis': { lat: 1.3000, lng: 103.8500 },
-              'Raffles Place': { lat: 1.2800, lng: 103.8500 },
-              'Tanjong Pagar': { lat: 1.2800, lng: 103.8300 }
-            };
-            
-            const coords = districtCoords[district] || { lat: 1.3521, lng: 103.8198 }; // Default to Singapore center
-            setManualLocation(coords.lat, coords.lng);
+          // Set manual location (using state as placeholder)
+          const state = stateList.find(s => s.toLowerCase().includes(location.toLowerCase()));
+          if (state) {
+            // Placeholder: no coordinates for now
+            setManualLocation(1.3521, 103.8198); // Default to Singapore center
             setSearchTerm(location);
             setHasSearched(true);
             setShowFilters(true);
@@ -358,7 +344,7 @@ const Home = () => {
       };
     } else if (isNearbyMode && userLocation && !searchTerm.trim()) {
       return {
-        title: "Gold Shops Across Singapore",
+        title: "Gold Shops Across India",
         subtitle: `${totalResults} shops sorted by lowest price and nearest distance`
       };
     } else if (hasSearched && searchTerm.trim()) {
@@ -368,7 +354,7 @@ const Home = () => {
       };
     } else {
       return {
-        title: "Gold Shops Across Singapore",
+        title: "Gold Shops Across India",
         subtitle: `${totalResults} shops sorted by lowest price and nearest distance`
       };
     }
@@ -389,10 +375,10 @@ const Home = () => {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-600 block">
                 Gold Prices
               </span>
-              in Singapore
+              in India
             </h1>
             <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto mb-8 leading-relaxed">
-              Compare real-time gold prices from premium jewelry shops across Singapore. 
+              Compare real-time gold prices from premium jewelry shops across India. 
               Find the best deals on 916 and 999 gold with live updates.
             </p>
           </div>
@@ -402,15 +388,15 @@ const Home = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
               <BestPriceCard
                 shop={bestPrices.best916}
-                goldType="916 Gold"
+                goldType="22K Gold"
                 price={bestPrices.best916.goldPrices.price916}
-                label="Lowest 916 Gold Price"
+                label="Lowest 22K Gold Price"
               />
               <BestPriceCard
                 shop={bestPrices.best999}
-                goldType="999 Gold"
+                goldType="24K Gold"
                 price={bestPrices.best999.goldPrices.price999}
-                label="Lowest 999 Gold Price"
+                label="Lowest 24K Gold Price"
               />
             </div>
           )}
@@ -545,7 +531,7 @@ const Home = () => {
                         : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
                     }`}
                   >
-                    916 Gold
+                    22K Gold
                   </button>
                   <button
                     onClick={() => setSelectedGoldType('999')}
@@ -555,7 +541,7 @@ const Home = () => {
                         : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
                     }`}
                   >
-                    999 Gold
+                    24K Gold
                   </button>
                 </div>
 

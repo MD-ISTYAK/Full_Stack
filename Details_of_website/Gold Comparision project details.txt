@@ -32,3 +32,11 @@ Basic Description:
 4) Theme need to change.
 5) build for Indian User so they compare gold price online using our webapp.
 6) review must be simple and direct don't display review after submission.
+
+14/July/2025(Second Instruction)
+
+1) Create admin panel and buttons for merchants so they can login on the website as a merchant
+2) Search buttons and bar must be in one line .
+3) Create a database by MongoDB and use lambda function for back-end implementation 
+4)  Default state of filters should be off and only be on display when clicked by users
+

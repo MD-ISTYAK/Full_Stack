@@ -157,10 +157,10 @@ const ShopDetail = () => {
   }
 
   const priceHistory = [
-    { date: '2024-01-15', price916: shop.goldPrices.price916 - 2.5, price999: shop.goldPrices.price999 - 2.8 },
-    { date: '2024-01-16', price916: shop.goldPrices.price916 - 1.2, price999: shop.goldPrices.price999 - 1.5 },
-    { date: '2024-01-17', price916: shop.goldPrices.price916 - 0.8, price999: shop.goldPrices.price999 - 1.0 },
-    { date: '2024-01-18', price916: shop.goldPrices.price916, price999: shop.goldPrices.price999 },
+    { date: '2024-01-15', price22K: shop.goldPrices.price22K - 2.5, price24K: shop.goldPrices.price24K - 2.8 },
+    { date: '2024-01-16', price22K: shop.goldPrices.price22K - 1.2, price24K: shop.goldPrices.price24K - 1.5 },
+    { date: '2024-01-17', price22K: shop.goldPrices.price22K - 0.8, price24K: shop.goldPrices.price24K - 1.0 },
+    { date: '2024-01-18', price22K: shop.goldPrices.price22K, price24K: shop.goldPrices.price24K },
   ];
 
   return (
@@ -202,7 +202,7 @@ const ShopDetail = () => {
                     <div className="flex items-center space-x-4 text-gray-400 mb-3">
                       <div className="flex items-center space-x-1">
                         <MapPin className="w-4 h-4" />
-                        <span>{shop.district}</span>
+                        <span>{shop.state}</span>
                       </div>
                       <div className="flex items-center space-x-1">
                         <Phone className="w-4 h-4" />
@@ -225,25 +225,25 @@ const ShopDetail = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="bg-black/30 rounded-lg p-4 border border-yellow-500/20">
                     <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm text-gray-400">916 Gold</span>
+                      <span className="text-sm text-gray-400">22K Gold</span>
                       <div className="flex items-center space-x-1">
                         <TrendingUp className="w-4 h-4 text-green-400" />
-                        <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-1 rounded">916 Gold</span>
+                        <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-1 rounded">22K Gold</span>
                       </div>
                     </div>
-                    <div className="text-2xl font-bold text-yellow-500 font-mono">${shop.goldPrices.price916}</div>
+                    <div className="text-2xl font-bold text-yellow-500 font-mono">₹{shop.goldPrices.price22K}</div>
                     <div className="text-sm text-gray-500">/gram</div>
                   </div>
                   
                   <div className="bg-black/30 rounded-lg p-4 border border-yellow-500/20">
                     <div className="flex items-center justify-between mb-2">
-                      <span className="text-sm text-gray-400">999 Gold</span>
+                      <span className="text-sm text-gray-400">24K Gold</span>
                       <div className="flex items-center space-x-1">
                         <TrendingUp className="w-4 h-4 text-green-400" />
-                        <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-1 rounded">999 Gold</span>
+                        <span className="text-xs text-gray-400 bg-yellow-600/20 px-2 py-1 rounded">24K Gold</span>
                       </div>
                     </div>
-                    <div className="text-2xl font-bold text-yellow-500 font-mono">${shop.goldPrices.price999}</div>
+                    <div className="text-2xl font-bold text-yellow-500 font-mono">₹{shop.goldPrices.price24K}</div>
                     <div className="text-sm text-gray-500">/gram</div>
                   </div>
                 </div>
@@ -444,12 +444,12 @@ const ShopDetail = () => {
                   <span className="text-gray-400">{entry.date}</span>
                   <div className="flex space-x-4">
                     <div className="text-right">
-                      <div className="text-sm text-gray-400">916 Gold</div>
-                      <div className="text-yellow-500 font-mono">${entry.price916}</div>
+                      <div className="text-sm text-gray-400">22K Gold</div>
+                      <div className="text-yellow-500 font-mono">₹{entry.price22K}</div>
                     </div>
                     <div className="text-right">
-                      <div className="text-sm text-gray-400">999 Gold</div>
-                      <div className="text-yellow-500 font-mono">${entry.price999}</div>
+                      <div className="text-sm text-gray-400">24K Gold</div>
+                      <div className="text-yellow-500 font-mono">₹{entry.price24K}</div>
                     </div>
                   </div>
                 </div>
